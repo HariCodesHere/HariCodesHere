@@ -54,10 +54,10 @@
 
 ## 📬 Let’s Connect
 
-- [LinkedIn](https://linkedin.com/in/harikrishnansanthosh)
-- [GitHub](https://github.com/your-username)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- [LinkedIn](linkedin.com/in/harikrishnan-santhosh-aaa55932a)
+- [GitHub](https://github.com/HariCodesHere)
+- Email: [harikrishnansanthosh06@gmail.com](mailto:harikrishnansanthosh06@gmail.com)
 
 ---
 
-> “The future belongs to those who build it.” — _Retro-coded reality by Hari_
+> “The future belongs to those who build it.”
