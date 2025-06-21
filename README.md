@@ -1,58 +1,63 @@
-<!-- Profile README | Theme: Dark Retro-Future -->
+# 👾 Harikrishnan Santhosh
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F72585&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Hari+%F0%9F%9A%80;Welcome+to+my+Neon+Hub" alt="Typing SVG" />
-</h1>
+**_Full-stack Developer | Embedded Systems Tinkerer | AI Explorer_**  
+🛰️ Coding from 🌍 India | Living in dark mode | Building for the future, not the past
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1F1F1F&height=3&section=header"/>
-</p>
+---
 
-🛰️ Terminal Activated... Welcome to /home/harikrishnan
+## 🕶️ About Me
 
-shell
-Copy
-Edit
+- 💻 Passionate about building **cool, unconventional tech**
+- 🧠 Interested in **operating systems**, **IoT**, **AI**, and futuristic UIs
+- 🎮 Gamer at heart | 🎧 Synthwave on loop | 🚀 Code like it’s 2099
 
-🕶️  ABOUT ME
-```bash
-> Name: Harikrishnan Santhosh
-> Location: 🌍 India, Planet Earth
-> Speciality: Full-stack dev | Embedded systems | AI Enthusiast
-> Favorite Stack: JavaScript ⚡ Python ⚙️ C++
-> Terminal Motto: "Code like it's 2099 🚀"
-💻 CURRENTLY HACKING ON
+---
 
-bash
-Copy
-Edit
-🔧 Building: OS from Scratch 🧠
-🎮 Exploring: Game Dev with Godot
-📡 Learning: Rust + WebAssembly
-🧠 TECH STACK
+## ⚡ Currently Working On
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,nodejs,react,arduino,raspberrypi,bash,linux" /> </p>
-🧰 TOOLS OF CHOICE
+- 🔐 Face Recognition Lock System  
+- ☀️ IoT Solar Panel Cleaning System (ASPCS)  
+- 🛰️ Arduino Intruder Alarm  
+- 👕 AI Outfit Recommender  
+- 🧩 Building a hobby Operating System from scratch
 
-bash
-Copy
-Edit
-> Editor: VS Code + Neovim
-> Theme: One Dark Pro + Synthwave '84
-> Terminal: Oh My Zsh + Starship
-> Hardware: Lenovo Legion ⚙️ ESP32 🧠 Arduino UNO
-🚀 PROJECTS IN THE VOID
+---
 
-md
-Copy
-Edit
-🧬 Face Recognition Lock 🔐
-🌞 IoT Solar Panel Cleaner (ASPCS)
-🛰️ Arduino Intruder Alarm System
-🧙 AI-Powered Outfit Recommender
-📈 GITHUB STATS
+## 🛠️ Tech Stack
 
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" /> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" /> </p>
-📡 CONNECT WITH ME
+**Languages & Frameworks:**  
+`JavaScript` `Python` `C++` `HTML` `CSS` `React` `Node.js`
 
-<p align="center"> <a href="https://linkedin.com/in/harikrishnansanthosh" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/your-username"> <img src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1F1F1F&height=3&section=footer"/> </p> <p align="center"><i>“The future is already here – it’s just not evenly distributed.” – William Gibson</i></p> ```
+**Hardware & Systems:**  
+`Arduino` `ESP32` `Raspberry Pi` `Windows` `Linux`
+
+**Tools & IDEs:**  
+`VS Code` `Git` `Figma` `Chrome DevTools`
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true)
+
+---
+
+## 💡 Fun Facts
+
+- 🔧 I love building **DIY electronics** just to automate random stuff  
+- 📺 I get inspired by **retro-futuristic movies, games, and music**  
+- 🧬 My dream project: a **fully voice-driven OS UI** that looks like a sci-fi interface
+
+---
+
+## 📬 Let’s Connect
+
+- [LinkedIn](https://linkedin.com/in/harikrishnansanthosh)
+- [GitHub](https://github.com/your-username)
+- Email: [youremail@example.com](mailto:youremail@example.com)
+
+---
+
+> “The future belongs to those who build it.” — _Retro-coded reality by Hari_
