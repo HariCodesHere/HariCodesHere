@@ -1,14 +1,13 @@
 # 👾 Harikrishnan Santhosh
 
 **_Full-stack Developer | Embedded Systems Tinkerer | AI Explorer_**  
-🛰️ Coding from 🌍 India | Living in dark mode | Building for the future, not the past
 
 ---
 
 ## 🕶️ About Me
 
 - 💻 Passionate about building **cool, unconventional tech**
-- 🧠 Interested in **operating systems**, **IoT**, **AI**, and futuristic UIs
+- 🧠 Interested in **operating systems**, **IoT**, **Neural Networks**, and every cool techs.
 
 
 ---
@@ -16,10 +15,9 @@
 ## ⚡ Currently Working On
 
 - 🔐 Face Recognition Lock System  
-- ☀️ IoT Solar Panel Cleaning System (ASPCS)  
 - 🛰️ Arduino Intruder Alarm  
 - 👕 AI Outfit Recommender  
-- 🧩 Building a hobby Operating System from scratch
+- 🧩 IOT based energy converter (Co-authoring a research paper)
 
 ---
 
