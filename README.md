@@ -9,7 +9,7 @@
 
 - 💻 Passionate about building **cool, unconventional tech**
 - 🧠 Interested in **operating systems**, **IoT**, **AI**, and futuristic UIs
-- 🎮 Gamer at heart | 🎧 Synthwave on loop | 🚀 Code like it’s 2099
+
 
 ---
 
@@ -48,7 +48,7 @@
 
 - 🔧 I love building **DIY electronics** just to automate random stuff  
 - 📺 I get inspired by **retro-futuristic movies, games, and music**  
-- 🧬 My dream project: a **fully voice-driven OS UI** that looks like a sci-fi interface
+- 🧬 My dream project: a **fully voice-driven OS UI** 
 
 ---
 
