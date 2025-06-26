@@ -61,13 +61,7 @@ Building innovative solutions at the intersection of software and hardware. Pass
 
 ---
 
-## 🤖 Fun Facts
-- 🎮 Building a voice-controlled game inspired by System Shock
-- 🔧 Automated my entire room (lights, AC, coffee maker)
-- 🎸 Play guitar to debug complex problems
-- 📺 Believe Black Mirror is a to-do list, not fiction
 
----
 
 ## 📫 Let's Connect
 
