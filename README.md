@@ -51,7 +51,7 @@ Building innovative solutions at the intersection of software and hardware. Pass
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HariCodesHere&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HariCodesHere&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariCodesHere&layout=compact&theme=radical" />
 </div>
 
