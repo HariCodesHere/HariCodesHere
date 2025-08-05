@@ -60,7 +60,7 @@ Building innovative solutions at the intersection of software and hardware. Pass
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HariCodesHere.HariCodesHere&color=blueviolet&style=flat" alt="Profile views" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HariCodesHere.HariCodesHere&color=blueviolet" alt="Profile views" /> 
 </div>
 
 ---
