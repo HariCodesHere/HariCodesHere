@@ -59,9 +59,7 @@ Building innovative solutions at the intersection of software and hardware. Pass
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HariCodesHere&theme=react-dark&hide_border=true" width="90%"/>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HariCodesHere.HariCodesHere&color=blueviolet" alt="Profile views" /> 
-</div>
+
 
 ---
 
